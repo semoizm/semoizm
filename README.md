@@ -7,8 +7,8 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://t.me/semoizms" target"blank_"><img src="https://img.shields.io/badge/Telegram%20-7289DA.svg?&style=for-the-badge&logo=telegram&logoColor=9cf">
- <a href="https://www.instagram.com/semoizm" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://discord.com/users/725465882402226208" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
+  <a href="https://www.instagram.com/semoizm" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 
 <br />
 
