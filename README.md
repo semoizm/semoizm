@@ -6,9 +6,9 @@
 ![](https://komarev.com/ghpvc/?username=Semoizm&label=PROFILE+VIEWS)
 
 ## Connect with me:
-
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][Youtube]
-[<img align="left" alt="codeSTACKr | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
+<p align="left">
+<a href="https://discord.com/users/852627413228847105" target"blank_"><img src="https://img.shields.io/badge/Telegram%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
+ <a href="https://www.instagram.com/semoizm" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
 
 <br />
 
