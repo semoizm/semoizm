@@ -1,6 +1,7 @@
 ### Hi There :wave: I'm Semoizm
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/725465882402226208)](https://discord.com/users/725465882402226208)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/725465882402226208
+                            )](https://discord.com/users/725465882402226208)
 
 ![](https://komarev.com/ghpvc/?username=Semoizm&label=PROFILE+VIEWS)
 
