@@ -1,32 +1,36 @@
-### Hi There :wave: I'm Semoizm
+# ✨ Hi, I am Semoizm
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/725465882402226208
-                            )](https://discord.com/users/725465882402226208)
+Hi, my name is Semih and I'm 17 yo. I started software development 1 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
 
-![](https://komarev.com/ghpvc/?username=Semoizm&label=PROFILE+VIEWS)
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=semoizm&color=32CD32"/>
+</div>
 
-## Connect with me:
-<p align="left">
-<a href="https://discord.com/users/725465882402226208" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white">
-  <a href="https://www.instagram.com/semoizm" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white">
+<div align="center">
+    <a href="https://discord.com/users/725465882402226208" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/725465882402226208"></a>
+</div>
 
-<br />
+## ⚡ Contact
 
+<div align="center">
+    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Semoizm-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://github.com/semoizm" target="_blank"><img src="https://shields.io/badge/Semoizm-111111.svg?&style=for-the-badge&logo=github"></a>
+    <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Semoizm-111111.svg?&style=for-the-badge&logo=npm"></a>
+    <a href="https://instagram.com/semoizm" target="_blank"><img src="https://shields.io/badge/Semoizm-111111.svg?&style=for-the-badge&logo=instagram"></a>
+</div>
 
+## 💻 Technologies I Use
 
-## Languages and Tools:
+<div align="center">
+    <img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white"/>
+    <img alt="HTML5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+    <img alt="CSS3" align="center" src="https://img.shields.io/badge/-CSS3-264de4?style=flat-square&logo=css3&logoColor=white"/>
+</div>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+## 📈 Github Stats
 
-<br />
-<br />
-
-<details>
-  <summary>GitHub Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=Semoizm&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-</details>
-
-[youtube]: https://www.youtube.com/Semoizm
-[discord]: https://discord.com/users/725465882402226208
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=semoizm&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semoizm&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+</div>
