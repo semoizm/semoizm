@@ -13,7 +13,7 @@ Hi, my name is Semih and I'm 17 yo. I started software development 2 year ago wi
 ## ⚡ Contact
 
 <div align="center">
-    <a href="https://discord.com/users/350976460313329665" target="_blank"><img src="https://shields.io/badge/Semoizm-111111.svg?&style=for-the-badge&logo=discord"></a>
+    <a href="https://discord.com/users/725465882402226208" target="_blank"><img src="https://shields.io/badge/Semoizm-111111.svg?&style=for-the-badge&logo=discord"></a>
     <a href="https://github.com/semoizm" target="_blank"><img src="https://shields.io/badge/Semoizm-111111.svg?&style=for-the-badge&logo=github"></a>
     <a href="https://www.npmjs.com/~theark" target="_blank"><img src="https://shields.io/badge/Semoizm-111111.svg?&style=for-the-badge&logo=npm"></a>
     <a href="https://instagram.com/semoizm" target="_blank"><img src="https://shields.io/badge/Semoizm-111111.svg?&style=for-the-badge&logo=instagram"></a>
