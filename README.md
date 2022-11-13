@@ -7,7 +7,7 @@ Hi, my name is Semih and I'm 17 yo. I started software development 2 year ago wi
 </div>
 
 <div align="center">
-    <a href="https://discord.com/users/725465882402226208" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/725465882402226208"></a>
+    <a href="https://discord.com/users/725465882402226208" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/1027301058747310161"></a>
 </div>
 
 ## ⚡ Contact
