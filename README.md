@@ -1,6 +1,6 @@
 # Hi, I am Semoizm <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
-Hi, my name is Semih and I'm 17 yo. I started software development 2 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
+Hi, my name is Semih and I'm 18 yo. I started software development 4 year ago with developing Discord bots. And i continue software development with learning Full Stack Web Development. I still learning new stuff in programming. I'm a JavaScript, TypeScript, and Vue developer. 
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=semoizm&color=32CD32"/>
