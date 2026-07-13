@@ -1,6 +1,6 @@
 <div align="center">
 
-  # this Semoizm <img src="./dosya/semoizm.gif" width="25"> width="25">
+  # this Semoizm <img src="./dosya/semoizm.gif" width="25">
   
   </div>
 
